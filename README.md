@@ -1,2 +1,2 @@
-# exo-ruby-
+# exo-ruby
 Série d'exo ruby 
