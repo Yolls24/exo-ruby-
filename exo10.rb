@@ -7,8 +7,6 @@ annee_actuelle = Time.now.year
 
 puts "Ton age correspond à une année "
 
-# boucle de l'année de naissance à aujourd'hui.
-
 (annee_naissance..annee_actuelle).each do |annee|
     age = annee - annee_naissance
     if age == 0
